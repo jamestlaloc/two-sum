@@ -21,7 +21,7 @@ const twoSum = (nums, target) => {
   const seen = {};
 
   for(let i = 0; i < nums.length; i++) {
-
+    const needed = target - nums[i]
   }
 }
 
