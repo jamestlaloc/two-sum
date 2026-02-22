@@ -19,6 +19,10 @@ const target = 9;
 
 const twoSum = (nums, target) => {
   const seen = {};
+
+  for(let i = 0; i < nums.length; i++) {
+
+  }
 }
 
 console.log(twoSum(numbers, target));
