@@ -4,7 +4,7 @@
 
 // Input: 
 const numbers = [2,7,11,15] 
-const target = 22;
+const target = 9;
 // Output: [0,1];
 
 // const twoSum = (nums, target) => {
